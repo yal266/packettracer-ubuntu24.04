@@ -2,6 +2,7 @@
 Instalación de Cisco Packet Tracer en Ubuntu 24.04 LTS
 
 <-- Para instalar correctamente introduce estos comandos en la terminal :) -->
+
 sudo apt update
 
 sudo apt install libxcb-xinerama0-dev
